@@ -1,0 +1,1 @@
+Homepage slider updated with three supplied banner images. No text overlay or dark gradient. English and Arabic homepages updated. All other pages retained. Upload contents of ultra-safe-trading-website to your hosting public_html directory.
