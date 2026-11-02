@@ -1,0 +1,5 @@
+ULTRA SAFE TRADING – ANIMATION UPDATE
+
+Added restrained premium hover transitions for navigation, buttons, service/value/process cards, blog cards, footer links and floating actions. Added subtle scroll-reveal entrances for page sections and content cards, with a small stagger on contact details. Added dropdown entrance motion. Animations respect prefers-reduced-motion and disable hover lift on touch-only devices. No external animation library added.
+
+Included in both English and Arabic styles/scripts. Existing SEO files, contact links, WhatsApp number and footer layout are preserved.

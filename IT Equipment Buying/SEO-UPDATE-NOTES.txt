@@ -1,0 +1,21 @@
+ULTRA SAFE TRADING LLC — SEO UPDATE
+
+Included:
+- Unique English and Arabic page titles and meta descriptions.
+- Canonical URLs and en-AE/ar-AE/x-default hreflang links.
+- Robots and Googlebot directives, Open Graph and Twitter metadata.
+- JSON-LD Schema.org graph: LocalBusiness, WebSite, WebPage, and Service where relevant.
+- XML sitemap covering all 34 English and Arabic HTML pages with language alternates.
+- robots.txt sitemap declaration.
+
+Primary contact used in structured data: +971 50 549 0721.
+Business location: M37, Musaffah, Abu Dhabi, UAE.
+Website: https://www.ultrasafetrading.com/
+
+After uploading the website files to the domain document root:
+1. Open https://www.ultrasafetrading.com/robots.txt and /sitemap.xml to confirm they load.
+2. Add https://www.ultrasafetrading.com/sitemap.xml in Google Search Console.
+3. Verify the domain in Search Console and inspect the homepage and important service URLs.
+4. Confirm HTTPS works and redirects consistently to the www version.
+
+SEO markup does not guarantee rankings. Results depend on site quality, crawlability, content, links, local business signals and competition.

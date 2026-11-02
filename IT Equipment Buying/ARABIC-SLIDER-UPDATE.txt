@@ -1,0 +1,1 @@
+Arabic homepage uses the same 3 images as English homepage, without overlay text. Arabic-specific CSS fixes image visibility and responsive scaling. English and Arabic pages retained.

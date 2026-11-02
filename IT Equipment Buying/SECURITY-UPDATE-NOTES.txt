@@ -1,0 +1,15 @@
+ULTRA SAFE TRADING - SECURITY UPDATE
+
+Included hardening:
+- Apache .htaccess: disables directory listing, blocks hidden/config/project-note files, and adds browser security headers.
+- _headers: equivalent headers for hosts that support the Netlify/Cloudflare Pages headers file.
+- web.config: equivalent basic headers and directory-browsing protection for IIS hosting.
+- Updated jQuery CDN reference from 3.5.1 to 3.7.1 on all HTML pages.
+- Existing SEO, animations, footer and WhatsApp contact number are retained.
+
+IMPORTANT DEPLOYMENT NOTES
+1. Upload the website files to the public web root. Use the server-specific config: .htaccess for Apache/LiteSpeed, _headers for supported static hosts, or web.config for IIS. Do not expect all hosts to process all three files.
+2. The Content-Security-Policy allows the current Google Maps embed and the current jQuery/Bootstrap CDN hosts. If you add another third-party widget, update the policy deliberately.
+3. Serve the website over HTTPS. HSTS is emitted by Apache only on HTTPS requests. Configure HTTPS/redirects in your hosting control panel if not already enabled.
+4. This is a static HTML website. These browser/server settings do not add server-side form validation, spam protection, authentication, backups, malware scanning, or hosting-account security. Contact/enquiry forms must submit through a trusted provider or a properly secured backend; never put API secrets in HTML/JavaScript.
+5. After deployment, test all pages, Google Maps, WhatsApp links, contact forms, and browser console. Some hosts may require CSP adjustments if they inject scripts.
