@@ -1,0 +1,26 @@
+MOBILE RESPONSIVE UPDATE
+- Refined responsive layouts for desktop, tablet and mobile breakpoints.
+- Improved mobile navigation spacing, touch targets and dropdown scrolling.
+- Reworked homepage slider layout on phones: copy and image stack cleanly with responsive typography.
+- Improved cards, forms, contact panels, footer and fixed contact banner on narrow screens.
+- Added keyboard focus visibility and reduced-motion support.
+- Applied responsive refinements to English and Arabic stylesheets.
+- Mobile navigation now closes after selecting a destination.
+All original page content, imagery, language pages, enquiry form integration and existing links are retained.
+
+MOBILE SERVICES MENU DESIGN UPDATE
+- Redesigned the expanded Services menu as a clean two-column grid of individual service tiles.
+- Added consistent icon tiles, rounded cards, subtle borders and clearer spacing.
+- Added a distinct active Services state and a compact, sticky menu heading.
+- Kept the expanded menu independently scrollable on small screens.
+- Refined narrow-phone behavior and right-to-left Arabic alignment.
+- Fixed the mobile dropdown animation positioning so the menu stays aligned inside the navigation.
+
+FINAL MOBILE MENU REPAIR
+- Corrected the Services dropdown display state: it is fully removed from the layout while closed and opens only when Bootstrap marks it .show.
+- Removed conflicting mobile transforms, visibility animations and desktop centering from the mobile dropdown.
+- Made the mobile navigation panel independently scrollable within the viewport.
+- Standardized all mobile navigation links, touch targets, spacing and language selector.
+- Services links use a consistent two-column card grid on most phones and a single column on narrow phones.
+- Improved Arabic RTL alignment and added the same close-after-navigation behavior to the Arabic menu.
+- Added stylesheet/script cache-busting version strings to HTML pages to help browsers load the repaired files.
