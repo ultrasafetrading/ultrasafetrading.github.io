@@ -39,3 +39,11 @@ All shared styles are in `assets/css/style.css`; interactions are in `assets/js/
 - Each page's first form uses `id="submit-form"`; additional forms on the same page use unique IDs to avoid invalid duplicate IDs.
 - On success, the requested confirmation alert appears and the page reloads; on error, the requested error alert appears.
 - Note: jQuery `serialize()` does not transmit file attachments. The optional supplier catalogue/profile file input is not uploaded by this implementation and requires a separate secure upload handler if file uploads are needed.
+
+
+## Latest update — About, Blog, Mobile & SEO
+- Redesigned English and Arabic About pages with responsive editorial hero, company overview, working principles and contact CTA.
+- Redesigned English and Arabic Blog pages with featured article cards, topic links and three expanded practical guides.
+- Added page-specific SEO titles, descriptions, Twitter sharing metadata and basic AboutPage/Blog structured data.
+- Added responsive layouts, accessible anchor links, image lazy-loading for below-the-fold content and reduced-motion support.
+- Review all company-specific claims and replace generic social profile links with official account URLs before publishing.

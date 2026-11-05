@@ -13,9 +13,3 @@
 .arabic-site .dropdown-menu{text-align:right}
 .arabic-site .form-control,.arabic-site .form-select{text-align:right}
 @media(max-width:991px){.arabic-site .hero .carousel-caption{right:8%;left:auto;width:83%}.arabic-site .service-feature{border-left:0}}
-
-/* RTL service menu and mobile navigation refinements */
-.arabic-site .service-menu-item{direction:rtl;text-align:center}
-.arabic-site .services-mega-menu{right:auto}
-.arabic-site .navbar .dropdown-toggle::after{margin-right:8px;margin-left:0}
-@media(max-width:991px){.arabic-site .services-mega-menu{width:100%}.arabic-site .navbar-nav{align-items:stretch}}
