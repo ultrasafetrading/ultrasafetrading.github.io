@@ -1,0 +1,21 @@
+
+.arabic-site{font-family:"Cairo",Tahoma,Arial,sans-serif;text-align:right;direction:rtl}
+.arabic-site .navbar-brand{letter-spacing:0}
+.arabic-site .brand-wordmark{direction:ltr;text-align:left}
+.arabic-site .navbar-nav{padding-right:0}
+.arabic-site .nav-link{font-family:"Cairo",Tahoma,sans-serif}
+.arabic-site .hero .carousel-caption{left:auto;right:6%;text-align:right;align-items:flex-start}
+.arabic-site .hero .carousel-item:before{background:linear-gradient(270deg,#fffF 0%,#fffE 28%,#fff6 48%,transparent 75%)}
+.arabic-site .page-hero h1,.arabic-site .section-title{letter-spacing:0}
+.arabic-site .service-feature{border-right:0;border-left:1px solid #173c59}
+.arabic-site .footer .brand-wordmark{text-align:left;direction:ltr}
+.arabic-site .float-actions{right:auto;left:18px}
+.arabic-site .dropdown-menu{text-align:right}
+.arabic-site .form-control,.arabic-site .form-select{text-align:right}
+@media(max-width:991px){.arabic-site .hero .carousel-caption{right:8%;left:auto;width:83%}.arabic-site .service-feature{border-left:0}}
+
+/* RTL service menu and mobile navigation refinements */
+.arabic-site .service-menu-item{direction:rtl;text-align:center}
+.arabic-site .services-mega-menu{right:auto}
+.arabic-site .navbar .dropdown-toggle::after{margin-right:8px;margin-left:0}
+@media(max-width:991px){.arabic-site .services-mega-menu{width:100%}.arabic-site .navbar-nav{align-items:stretch}}
